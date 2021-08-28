@@ -7,3 +7,5 @@ Uses the tkinter Library in python
 4. Swaps in the algorithms were animated using the window.after() function
 
 Currently Insertion, Bubble and Selection Sort works.
+
+<img src="https://im2.ezgif.com/tmp/ezgif-2-efd5666122c1.gif" alt="My Project GIF" width="800" height="600">
